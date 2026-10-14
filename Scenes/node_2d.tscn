@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cpsrl8fg6yg5t"]
+
+[node name="Node2D" type="Node2D" unique_id=1115948974]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=954718938]
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer" unique_id=1137137097]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1026913713]
